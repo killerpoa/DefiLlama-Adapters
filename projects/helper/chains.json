@@ -164,6 +164,11 @@
   "kekchain",
   "mixin",
   "stride",
+  "starknet",
   "muuchain",
-  "defichain"
+  "step",
+  "sifchain",
+  "defichain",
+  "ton",
+  "dexit"
 ]
